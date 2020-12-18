@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstname": "Rochelle",
+            "lastname": "Canale",
+            "email": "chelle@cbo.me"
+        },
+        {
+            "id": 2,
+            "firstname": "Jewell",
+            "lastname": "Canale",
+            "email": "mjcanale@gmail.com"
+        }
+    ]
+}
